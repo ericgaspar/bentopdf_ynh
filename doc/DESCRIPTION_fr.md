@@ -1,1 +1,1 @@
-Ceci est une fausse description des fonctionalités de l'app
+BentoPDF est une suite d'outils PDF puissante, axée sur la confidentialité et côté client, qui peut être hébergée en interne et vous permet de manipuler, modifier, fusionner et traiter des fichiers PDF directement dans votre navigateur. Aucun traitement côté serveur n'est nécessaire, ce qui garantit la sécurité et la confidentialité de vos fichiers.
